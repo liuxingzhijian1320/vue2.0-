@@ -2,9 +2,7 @@
 
 > A Vuex-demo project
 
-```
-[DEMO](http://www.zhooson.cn/vuex/#/)
-```
+[DEMO](http://www.zhooson.cn/vuex/#/)  
 
 ## Build Setup
 
