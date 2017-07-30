@@ -2,6 +2,10 @@
 
 > A Vuex-demo project
 
+```
+<a href='http://www.zhooson.cn/vuex/#/'>DEMO</a>
+```
+
 ## Build Setup
 
 ``` bash
