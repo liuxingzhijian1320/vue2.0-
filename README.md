@@ -1,8 +1,6 @@
 # vuexdemo
 
-> A Vuex-demo project
-
-[DEMO](http://www.zhooson.cn/vuex/#/)  
+> A Vuex-demo project  
 
 ## Build Setup
 
